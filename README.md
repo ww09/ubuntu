@@ -1,2 +1,2 @@
-# ubuntu
-同步Ubuntu系统配置文件，包括zsh，cheat，oh-my-zsh，常用的脚本等
+# etc分支
+同步Ubuntu系统的etc配置文件.
